@@ -1,0 +1,5 @@
+# 忽略git.css文件
+git.css
+
+# 忽略test文件夹下的测试文件
+test/
